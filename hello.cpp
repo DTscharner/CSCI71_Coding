@@ -1,5 +1,5 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: Daniel Tscharner
+// Name: Daniel H Tscharner
 // Section: CSCI 271 0956
 
 #include <iostream>
