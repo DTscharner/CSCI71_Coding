@@ -1,11 +1,5 @@
-// CSCI 27X - GitHub Upload Practice
-// Name: Daniel Tscharner
-// Section: CSCI 271 0956
-
-#include <iostream>
-using namespace std;
-
-int main() {
-	cout << "Hello from GitHub! My first commit works." << endl;
-	return 0;
-}
+# My First GitHub Repository
+This is my very first repository on GitHub!
+**Author:** Daniel Tscharner
+**Date Created:** Jan 14, 2026
+**Purpose:** Practicing GitHub basics, including creating a repository and a README file
